@@ -4,7 +4,7 @@
 
 ## Release notes
 
-* [v1.4.14](v1.4.14.md)
+* [v1.4.14](v1.4.14.ja.md)
 
 ## Style
 
