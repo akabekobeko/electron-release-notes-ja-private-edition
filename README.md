@@ -8,9 +8,12 @@ Electron release 日本語訳、私家版 ( Private Edition )。基本、意訳�
 
 ## Release notes
 
-### v1.4
+### v1.5
 
 * [v1.5.0 beta](v1.5.0-beta.ja.md)
+
+### v1.4
+
 * [v1.4.15](v1.4.15.ja.md)
 * [v1.4.14](v1.4.14.ja.md)
 
