@@ -10,6 +10,7 @@ Electron release 日本語訳、私家版 ( Private Edition )。基本、意訳�
 
 * [v1.5](v1.5/index.md)
 * [v1.4](v1.4/index.md)
+* [v1.3](v1.3/index.md)
 
 ## Style
 
