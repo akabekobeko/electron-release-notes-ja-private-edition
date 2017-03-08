@@ -2,6 +2,7 @@
 
 ## v1.6
 
+* [v1.6.3 beta](v1.6.3-beta.ja.md)
 * [v1.6.2 beta](v1.6.2-beta.ja.md)
 * [v1.6.1 beta](v1.6.1-beta.ja.md)
 * [v1.6.0 beta](v1.6.0-beta.ja.md)
