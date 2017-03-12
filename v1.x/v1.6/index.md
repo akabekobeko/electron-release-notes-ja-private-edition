@@ -1,6 +1,6 @@
 # v1.6
 
-* [v1.6.3 beta](v1.6.3-beta.ja.md)
-* [v1.6.2 beta](v1.6.2-beta.ja.md)
-* [v1.6.1 beta](v1.6.1-beta.ja.md)
-* [v1.6.0 beta](v1.6.0-beta.ja.md)
+* [v1.6.3](v1.6.3.ja.md)
+* [v1.6.2](v1.6.2.ja.md)
+* [v1.6.1](v1.6.1.ja.md)
+* [v1.6.0](v1.6.0.ja.md)

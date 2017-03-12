@@ -1,4 +1,4 @@
 # v1.5
 
-* [v1.5.1 beta](v1.5.1-beta.ja.md)
-* [v1.5.0 beta](v1.5.0-beta.ja.md)
+* [v1.5.1](v1.5.1.ja.md)
+* [v1.5.0](v1.5.0.ja.md)
