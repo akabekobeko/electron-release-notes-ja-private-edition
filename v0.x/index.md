@@ -5,3 +5,6 @@
 * [v0.35](v0.35/index.md)
 * [v0.34](v0.34/index.md)
 * [v0.33](v0.33/index.md)
+* [v0.32](v0.32/index.md)
+* [v0.31](v0.32/index.md)
+* [v0.30](v0.32/index.md)
