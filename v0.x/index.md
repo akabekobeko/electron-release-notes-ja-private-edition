@@ -23,3 +23,16 @@
 * [v0.22](v0.22/index.md)
 * [v0.21](v0.21/index.md)
 * [v0.20](v0.20/index.md)
+
+# v0.1x
+
+* [v0.19](v0.19/index.md)
+* [v0.18](v0.18/index.md)
+* [v0.17](v0.17/index.md)
+* [v0.16](v0.16/index.md)
+* [v0.15](v0.15/index.md)
+* [v0.14](v0.14/index.md)
+* [v0.13](v0.13/index.md)
+* [v0.12](v0.12/index.md)
+* [v0.11](v0.11/index.md)
+* [v0.10](v0.10/index.md)
