@@ -11,7 +11,7 @@
 * [v0.31](v0.31/index.md)
 * [v0.30](v0.30/index.md)
 
-# v0.2x
+## v0.2x
 
 * [v0.29](v0.29/index.md)
 * [v0.28](v0.28/index.md)
@@ -24,7 +24,7 @@
 * [v0.21](v0.21/index.md)
 * [v0.20](v0.20/index.md)
 
-# v0.1x
+## v0.1x
 
 * [v0.19](v0.19/index.md)
 * [v0.18](v0.18/index.md)
@@ -36,3 +36,10 @@
 * [v0.12](v0.12/index.md)
 * [v0.11](v0.11/index.md)
 * [v0.10](v0.10/index.md)
+
+## v0.x
+
+* [v0.9](v0.9/index.md)
+* [v0.8](v0.8/index.md)
+* [v0.7](v0.7/index.md)
+* [v0.6](v0.6/index.md)
