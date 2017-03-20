@@ -43,3 +43,8 @@
 * [v0.8](v0.8/index.md)
 * [v0.7](v0.7/index.md)
 * [v0.6](v0.6/index.md)
+* [v0.5](v0.5/index.md)
+* [v0.4](v0.4/index.md)
+* [v0.3](v0.3/index.md)
+* [v0.2](v0.2/index.md)
+* [v0.1](v0.1/index.md)
