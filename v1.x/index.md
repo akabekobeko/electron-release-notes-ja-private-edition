@@ -1,5 +1,6 @@
 # v1.x
 
+* [v1.7](v1.7/index.md)
 * [v1.6](v1.6/index.md)
 * [v1.5](v1.5/index.md)
 * [v1.4](v1.4/index.md)
