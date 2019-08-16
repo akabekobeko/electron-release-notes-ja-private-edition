@@ -8,19 +8,20 @@ Electron release 日本語訳、私家版 ( Private Edition )。基本、意訳�
 
 ## Release notes
 
-* [v6.x](v6.x/index.md)
-* [v5.x](v5.x/index.md)
-* [v4.x](v4.x/index.md)
-* [v3.x](v3.x/index.md)
-* [v2.x](v2.x/index.md)
-* [v1.x](v1.x/index.md)
-* [v0.x](v0.x/index.md)
+- [v7.x](v7.x/index.md)
+- [v6.x](v6.x/index.md)
+- [v5.x](v5.x/index.md)
+- [v4.x](v4.x/index.md)
+- [v3.x](v3.x/index.md)
+- [v2.x](v2.x/index.md)
+- [v1.x](v1.x/index.md)
+- [v0.x](v0.x/index.md)
 
 ## Style
 
-* Original release notes
-  * Japanese translation
-  * Brief comment
+- Original release notes
+  - Japanese translation
+  - Brief comment
 
 ## License
 
