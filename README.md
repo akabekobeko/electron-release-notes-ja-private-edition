@@ -12,7 +12,7 @@ Electron release 日本語訳、私家版 (Private Edition)。基本的に意訳
 - [ ] v14.x
 - [ ] v13.x
 - [ ] [v12.x](v12.x/index.md)
-- [ ] [v11.x](v11.x/index.md)
+- [x] [v11.x](v11.x/index.md)
 - [x] [v10.x](v10.x/index.md)
 - [x] [v9.x](v9.x/index.md)
 - [x] [v8.x](v8.x/index.md)
