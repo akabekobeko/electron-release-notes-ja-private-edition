@@ -1,5 +1,6 @@
 # v13.x
 
+- [v13.4](v13.4/index.md)
 - [v13.3](v13.3/index.md)
 - [v13.2](v13.2/index.md)
 - [v13.1](v13.1/index.md)
