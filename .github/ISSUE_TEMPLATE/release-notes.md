@@ -1,7 +1,7 @@
 ---
 name: Release notes
 about: Add the translations of vX.X.X
-title: ''
+title: Add the translations of vX.X.X
 labels: enhancement
 assignees: akabekobeko
 
