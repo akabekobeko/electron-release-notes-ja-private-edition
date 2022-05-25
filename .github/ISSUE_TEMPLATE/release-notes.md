@@ -7,4 +7,4 @@ assignees: akabekobeko
 
 ---
 
-[Release electron vX.X.X · electron/electron](https://github.com/electron/electron/releases/tag/v1X.X.X)
+[Release electron vX.X.X · electron/electron](https://github.com/electron/electron/releases/tag/vX.X.X)
