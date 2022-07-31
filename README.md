@@ -10,7 +10,7 @@ Electron release 日本語訳、私家版 (Private Edition)。基本的に意訳
 
 - [ ] v18.x
 - [ ] v17.x
-- [ ] [v16.x](v16.x/index.md)
+- [x] [v16.x](v16.x/index.md)
 - [x] [v15.x](v15.x/index.md)
 - [x] [v14.x](v14.x/index.md)
 - [x] [v13.x](v13.x/index.md)
