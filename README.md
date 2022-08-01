@@ -8,8 +8,10 @@ Electron release 日本語訳、私家版 (Private Edition)。基本的に意訳
 
 ## Release notes
 
+- [ ] v20.x
+- [ ] v19.x
 - [ ] v18.x
-- [ ] v17.x
+- [ ] [v17.x](v17.x/index.md)
 - [x] [v16.x](v16.x/index.md)
 - [x] [v15.x](v15.x/index.md)
 - [x] [v14.x](v14.x/index.md)
